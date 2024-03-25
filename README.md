@@ -53,7 +53,7 @@ b. Dissimilarity matrices for K=5%, 10% and 20% of the total number of keypoints
           D                 0.0  0.85
           E                      0.0
 
-K=10%*(total number of keypoionts)=500
+             K=10%*(total number of keypoionts)=500
              
              Dissimilarity Matrix
               A   B    C    D    E
@@ -63,7 +63,7 @@ K=10%*(total number of keypoionts)=500
           D                 0.0  0.85
           E                      0.0
 
-K=20%*(total number of keypoionts)=1000
+            K=20%*(total number of keypoionts)=1000
              
              Dissimilarity Matrix
               A   B    C    D    E
